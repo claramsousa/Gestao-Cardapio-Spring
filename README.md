@@ -4,11 +4,11 @@ Este projeto é uma API REST desenvolvida para o gerenciamento de cardápios de 
 
 ## Tecnologias Utilizadas
 
-* [cite_start]**Java 17**: Utilização de `records` para DTOs[cite: 47, 55].
-* [cite_start]**Spring Boot 3**: Framework base para construção da aplicação[cite: 87].
-* [cite_start]**Spring Data JPA**: Abstração da camada de persistência[cite: 98, 105].
+* [cite_start]**Java 17**: Utilização de `records` para DTOs.
+* [cite_start]**Spring Boot 3**: Framework base para construção da aplicação.
+* [cite_start]**Spring Data JPA**: Abstração da camada de persistência.
 * [cite_start]**Hibernate**: Implementação do ORM para mapeamento das entidades.
-* [cite_start]**Lombok**: Redução de código boilerplate com anotações de Getter/Setter[cite: 68, 80].
+* [cite_start]**Lombok**: Redução de código boilerplate com anotações de Getter/Setter.
 * **Maven**: Gerenciador de dependências e build.
 
 ## Funcionalidades
